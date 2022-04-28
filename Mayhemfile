@@ -1,0 +1,5 @@
+project: jbgreenh/minimp3
+target: minimp3-fuzz
+
+cmds:
+  - cmd: /fuzz
